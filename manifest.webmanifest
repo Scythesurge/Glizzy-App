@@ -1,0 +1,10 @@
+{
+  "name": "Glizzy Button",
+  "short_name": "Glizzy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#d7263d",
+  "description": "One button. One glizzy. Random hot dogs.",
+  "icons": []
+}
